@@ -5,7 +5,7 @@ module.exports = {
     },
     "extends": [
         "standard-with-typescript",
-        "plugin:vue/vue3-strongly-recommended "
+        "plugin:vue/vue3-strongly-recommended"
     ],
     "overrides": [
         {
